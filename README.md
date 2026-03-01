@@ -1,4 +1,4 @@
-![Topology Diagram]()
+![Topology Diagram](https://github.com/furkangurses/Layer-2-Layer-3-EtherChannel-Implementation-in-Enterprise-Switching/blob/main/42356.PNG?raw=true)
 
 # Enterprise EtherChannel Configuration Lab (Layer 2 & Layer 3)
 
